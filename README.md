@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<p style="color:Green;>Hello, I'm Luigi</p>
+
 <!--
 **LuiDaPomerania/LuiDaPomerania** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
